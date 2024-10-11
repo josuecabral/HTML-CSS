@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(241, 241, 202);
+    background-image: url(paisaje.jpg);
+   background-size: cover;
+ }
+   .barra{
+
+      height: 100px;
+      width: 1540px;
+      background-color: rgb(180, 212, 128);
+      margin-bottom: 20px;
+      font-size: small;
+
+
+   }
+ div{
+    background-color: rgb(180, 212, 128);
+    height: 400px;
+    width: 1000;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+ }
+
+ h1, h2, h3, h6{
+    margin: 0;
+ }
+
+ footer{
+   background-color: rgb(180, 212, 128);
+   text-align: left;
+   padding: 10px;
+   margin-top: 20px;
+   font-size: 20px; 
+   position: relative;
+   bottom: 0;
+   width: 100%;
+   height: 100px;
+ }
