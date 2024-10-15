@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hola Gente</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="barra">
+        <h1>Buenas tardes</h1>
+        <h2>como estas </h2>
+        <h3>que es html? </h3>
+        <p>HTML, acrónimo en inglés de HyperText Markup Language ('lenguaje de marcado de hipertexto'), hace referencia al lenguaje de marcado utilizado en la creación de páginas web. Este estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones. Define una estructura básica y un código (denominado código HTML) para la presentación de contenido de una página web, que incluye texto, imágenes, videos, juegos, entre otros elementos.</p>
+    </div>
+    <div>
+    </div>
+</body>
+</html>
