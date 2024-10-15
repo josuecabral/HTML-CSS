@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ferrari</title>
+    <link rel="stylesheet" href="styles.css">
+    <div class="barra">
+        <h1>bienvenido a ferrari</h1>
+    
+    </div>
+</head>
+<body>
+   
+    <div class="barra2">   
+        <h2>Ferrari es una mítica marca del mundo del automovilismo deportivo cuya sede se encuentra en la ciudad de Maranello (Italia). Fue fundada en 1929 por un piloto de autos de competición, Enzo Ferrari, bajo la denominación de Scuderia Ferrari..</h2>
+    </div>
+    <footer>
+        <h1>Gracias por visitarnos :) </h1>
+    </footer>
+</body>
+</html>
