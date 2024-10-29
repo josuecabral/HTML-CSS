@@ -1,0 +1,29 @@
+body {
+    background-color: #1a1b1a;
+    font-family: Grumpy, sans-serif;
+}
+
+div {
+    background-color: #4a90e2;
+    color: #fbfafb;
+    text-align: left;
+    border: 3px dashed #325;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px #666;
+    margin-top: 25px;
+    padding: 10px;
+    filter: drop-shadow(8px 8px 16px #ff0000);
+}
+div:hover {
+    background-color: #327abd;
+    box-shadow: 3px 3px 5px #33;
+    filter: drop-shadow(8px 8px 16px #155ab2);
+}
+
+footer {
+    text-align: center;
+    margin-top: 70px;
+    color: #fbfafb;
+    filter: drop-shadow(0px 0px 15px #bbb);
+    font-style: square sherif;
+}
