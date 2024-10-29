@@ -1,0 +1,48 @@
+ body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(176, 17, 17);
+
+ }
+
+.encabezado{
+    background-color: rgb(225, 93, 16);
+    height: 100px;
+    width: 100%;
+    
+ }
+
+ p{
+   padding-left: 20px;
+ }
+
+ h1, h2, h3, h6{
+    margin: 0;
+    padding: 20px;
+ }
+
+.pie{
+   background-color: rgb(225, 93, 16);
+   height: 100px;
+   width: 100%;
+   
+}
+.contenido{
+   background-color: rgb(225, 93, 16);
+   height: 300px;
+   width: 100%;
+}
+
+a{
+   border: 5px solid green ;
+}
+
+div{
+   border: 15px solid yellow;
+}
+
+.video{
+   background-color: rgb(225, 93, 16);
+   height: 1200px;
+   width: 100%;
+}
