@@ -24,3 +24,4 @@ Candela Suarez
 Santiago Canaparo
 Esteban Bello
 Jeremias Martina
+Jose Lomonaco
